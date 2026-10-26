@@ -1,28 +1,37 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="Niwin Kumar — software engineer building applied-AI products and agent tooling, end to end. Open to roles." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg"><img src="assets/light/hero.svg" alt="Niwin Kumar. Building AI products and the agents that run them. Full-stack engineer at HappyFox, open to roles in London and remote." width="100%"></picture>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/niwinkumar/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-linkedin.svg"><img src="assets/light/link-linkedin.svg" alt="LinkedIn" width="150"></picture></a>
-<a href="mailto:niwinkumar77@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-email.svg"><img src="assets/light/link-email.svg" alt="Email" width="150"></picture></a>
-<a href="https://x.com/iamniwin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-x.svg"><img src="assets/light/link-x.svg" alt="X" width="150"></picture></a>
+<a href="https://niww.in">niww.in</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/niwinkumar/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://x.com/iamniwin">X</a> &nbsp;·&nbsp;
+<a href="mailto:niwinkumar77@gmail.com">niwinkumar77@gmail.com</a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s-building.svg"><img src="assets/light/s-building.svg" alt="What I'm building" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stats.svg"><img src="assets/light/stats.svg" alt="2 products shipped at HappyFox. 2 MCP servers built. CGPA 8.4 at VIT Chennai. Gold in gymnastics." width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/head-work.svg"><img src="assets/light/head-work.svg" alt="Selected work: products, built end to end." width="100%"></picture>
+
+<a href="https://github.com/NiwinKumar/willow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/willow.svg"><img src="assets/light/willow.svg" alt="Willow, now building: weekly photos through a clip-on dermatology lens show whether your skincare routine is working. React, FastAPI, Gemini, Cloud Run. Live at meetwillow.web.app." width="100%"></picture></a>
 
 <p>
-<a href="https://github.com/NiwinKumar/willow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-willow.svg"><img src="assets/light/card-willow.svg" alt="Willow — weekly dermatology-lens photos that show whether a skincare routine is working" width="49%"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-mcp.svg"><img src="assets/light/card-mcp.svg" alt="Creative-suite MCP — an agent that drives Resolve, Premiere Pro and After Effects" width="49%"></picture>
+<a href="https://github.com/NiwinKumar/neuromancer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/neuromancer.svg"><img src="assets/light/neuromancer.svg" alt="Neuromancer: computer-use MCP. Agents operate browsers, terminal jobs and documents on a real Mac through one endpoint." width="49.6%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sitemcp.svg"><img src="assets/light/sitemcp.svg" alt="Website MCP servers at HappyFox: agents audit SEO, edit pages and preview changes, then publish only when a person approves." width="49.6%"></picture>
+</p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/mentor.svg"><img src="assets/light/mentor.svg" alt="Mentor: a native iOS fitness app for routines, workout logs and gym bookings, with offline sync." width="49.6%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/integrations.svg"><img src="assets/light/integrations.svg" alt="Enterprise integrations at HappyFox: SaaS, ERP and telephony, with OAuth, data sync and event delivery." width="49.6%"></picture>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s-work.svg"><img src="assets/light/s-work.svg" alt="Selected work" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/head-exp.svg"><img src="assets/light/head-exp.svg" alt="Experience: where I've been building." width="100%"></picture>
 
-<a href="https://github.com/NiwinKumar/neuromancer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/work-neuromancer.svg"><img src="assets/light/work-neuromancer.svg" alt="Neuromancer — computer-use MCP that lets AI agents operate real Mac apps" width="100%"></picture></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"><img src="assets/light/experience.svg" alt="Full-stack engineer, product and platform, HappyFox, July 2025 to now. Backend engineer intern, HappyFox, February to July 2025. B.Tech and M.Tech in Computer Science, VIT Chennai, 2020 to 2025." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s-toolkit.svg"><img src="assets/light/s-toolkit.svg" alt="Toolkit" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/head-stack.svg"><img src="assets/light/head-stack.svg" alt="Stack: tools I reach for." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/toolkit.svg"><img src="assets/light/toolkit.svg" alt="TypeScript, Python, Swift, Go · React, Node, FastAPI, Django, Flutter · PyTorch, TensorFlow, OpenCV, LLM agents, MCP · AWS, Firebase, Postgres, MongoDB, Kubernetes" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" alt="TypeScript, React, Next.js, Astro, SwiftUI, Tailwind, Python, Django, FastAPI, Node.js, Java, PostgreSQL, MCP, function calling, Gemini, Bedrock, Vertex AI, Redis, AWS, Cloud Run, Firebase, BigQuery, Docker, GitHub Actions." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s-activity.svg"><img src="assets/light/s-activity.svg" alt="Activity" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/head-activity.svg"><img src="assets/light/head-activity.svg" alt="Activity: shipping, most days." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stats.svg"><img src="assets/light/stats.svg" alt="Contribution activity over the last 12 months" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg"><img src="assets/light/activity.svg" alt="GitHub contributions over the last twelve months, refreshed daily." width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"><img src="assets/light/footer.svg" alt="VIT · Gymnastics gold medalist" width="100%"></picture>
+<a href="mailto:niwinkumar77@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/cta.svg"><img src="assets/light/cta.svg" alt="Let's build something. Open to full-stack, product and applied-AI roles in London and remote. niwinkumar77@gmail.com" width="100%"></picture></a>
