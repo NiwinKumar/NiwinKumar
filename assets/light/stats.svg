@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none">
+<style>
+  .sans{font-family:Inter,-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif}
+  .serif{font-family:'Instrument Serif','New York','Iowan Old Style',Georgia,'Times New Roman',serif}
+  .mono{font-family:'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace}
+  .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<defs><clipPath id="st-c"><rect width="1200" height="330" rx="22"/></clipPath></defs>
+<g clip-path="url(#st-c)"><rect width="1200" height="330" fill="#FFFFFF"/><defs>
+  <pattern id="st-g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" stroke="#E7E4DD" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="st-fade" cx="0.5" cy="0.35" r="0.75">
+    <stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="st-m"><rect width="1200" height="330" fill="url(#st-fade)"/></mask>
+</defs>
+<rect width="1200" height="330" fill="url(#st-g)" mask="url(#st-m)" opacity="0.7"/>
+<text x="600" y="171" text-anchor="middle" class="mono" font-size="15" letter-spacing="2.4" fill="#6B6A66">SYNCING ACTIVITY…</text></g><rect x=".5" y=".5" width="1199" height="329" rx="21.5" stroke="#E7E4DD"/>
+</svg>

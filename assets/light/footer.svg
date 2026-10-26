@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none">
+<style>
+  .sans{font-family:Inter,-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif}
+  .serif{font-family:'Instrument Serif','New York','Iowan Old Style',Georgia,'Times New Roman',serif}
+  .mono{font-family:'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace}
+  .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<line x1="0" y1=".5" x2="1200" y2=".5" stroke="#E7E4DD"/>
+<text x="600" y="68" text-anchor="middle" class="serif" font-style="italic" font-size="30" fill="#121214">The discipline that won a medal is the one I ship with.</text>
+<text x="600" y="112" text-anchor="middle" class="mono" font-size="14" letter-spacing="2.4" fill="#B3AFA6">VIT   ·   GYMNASTICS GOLD MEDALIST</text>
+</svg>

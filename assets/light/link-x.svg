@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="52" viewBox="0 0 176 52" fill="none">
+<style>
+  .sans{font-family:Inter,-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif}
+  .serif{font-family:'Instrument Serif','New York','Iowan Old Style',Georgia,'Times New Roman',serif}
+  .mono{font-family:'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace}
+  .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect x=".5" y=".5" width="175" height="51" rx="26" fill="#FFFFFF" stroke="#D9D5CC"/>
+<text x="28" y="32" class="sans" font-size="17" font-weight="500" fill="#121214">X</text>
+<path d="M134 31l8-8m0 0h-6.5m6.5 0v6.5" stroke="#2F7A58" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
